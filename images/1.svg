@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Ico/1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Ico/1" stroke="#A8B2B9" stroke-width="2">
+            <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                <path d="M7,0 L6.542,0.378752934 L0,7.62302738 L0,12.9915254 C0,13.5431656 0.448,13.9908735 1,13.9908735 L4,13.9908735 C4.552,13.9908735 5,13.5431656 5,12.9915254 L5,8.99413299 C5,8.44249283 5.448,7.99478488 6,7.99478488 L8,7.99478488 C8.552,7.99478488 9,8.44249283 9,8.99413299 L9,12.9915254 C9,13.5431656 9.448,13.9908735 10,13.9908735 L13,13.9908735 C13.552,13.9908735 14,13.5431656 14,12.9915254 L14,7.62302738 L7.458,0.378752934 L7,0 Z" id="Stroke-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>
